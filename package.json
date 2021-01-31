@@ -1,0 +1,17 @@
+{
+  "name": "bobstracker",
+  "version": "1.0.0",
+  "description": "Bob's School Tracker (bobisagamer.com)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.3.0"
+  },
+  "scripts": {
+    "test": "npx cypress run",
+    "cypress:open": "cypress open",
+    "start": "npx cypress open"
+  },
+  "author": "bob and sqrl",
+  "license": "UNLICENSED"
+}
